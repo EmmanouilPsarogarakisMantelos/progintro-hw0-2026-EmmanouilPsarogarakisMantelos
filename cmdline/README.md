@@ -3,3 +3,5 @@ byte0: τραγουδισα το intro απο τα pokemon, χρησιμοποι
 byte1: έκανα man και το βρήκα 
 
 byte2: έκανα grep "will find" shekespeare.txt και το βρήκα 
+
+byte3: έκανα diff  shakespeare.txt shakespeare.modified.txt 
