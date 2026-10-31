@@ -6,5 +6,7 @@ byte2: έκανα grep "will find" shekespeare.txt και το βρήκα
 
 byte3: έκανα diff  shakespeare.txt shakespeare.modified.txt 
 
-byte4: the_triwizard_cup_is_yours_watch_out_for_the_horntail
+byte4: χρησιμοποίησα το find maze cup.txt και το παρατήρησα 
+
+byte5: βγήκα τελείωςςςς στον αρχικό φάκελο και βρήκα το tmp  έφτιαξα έναν φάκελο έκανα και  εκεί εκανα επικόλληση το αρχείο και μετα έκανα gcc και το εκτέλεσα 
 
