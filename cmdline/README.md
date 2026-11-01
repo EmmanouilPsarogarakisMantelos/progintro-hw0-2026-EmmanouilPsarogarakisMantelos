@@ -17,3 +17,5 @@ byte7: βγήκα τελείωςςςς στον αρχικό φάκελο και
 byte8: έκανα nano
 
 byte9: έκανα cat και μετα έβαλα το filepath
+
+byte10: έκανα   sort names.txt | head -n67
