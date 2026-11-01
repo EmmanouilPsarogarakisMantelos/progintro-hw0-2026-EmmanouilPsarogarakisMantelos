@@ -21,3 +21,5 @@ byte9: έκανα cat και μετα έβαλα το filepath
 byte10: έκανα   sort names.txt | head -n67
 
 byte11: Έκανα sort births.txt | uniq -c | sort -g
+
+byte12: έκανα which tuxsay και βρήκα το filepath και το βρήκα 
