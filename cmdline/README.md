@@ -19,3 +19,5 @@ byte8: έκανα nano
 byte9: έκανα cat και μετα έβαλα το filepath
 
 byte10: έκανα   sort names.txt | head -n67
+
+byte11: Έκανα sort births.txt | uniq -c | sort -g
