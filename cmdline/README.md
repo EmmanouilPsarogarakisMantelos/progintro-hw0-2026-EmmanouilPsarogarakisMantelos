@@ -25,3 +25,5 @@ byte11: Έκανα sort births.txt | uniq -c | sort -g
 byte12: έκανα which tuxsay και βρήκα το filepath και το βρήκα 
 
 byte13: έκανα git log
+
+byte14: έκανα git log -p
