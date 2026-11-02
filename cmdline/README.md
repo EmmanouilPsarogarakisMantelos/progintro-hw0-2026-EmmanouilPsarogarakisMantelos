@@ -27,3 +27,5 @@ byte12: έκανα which tuxsay και βρήκα το filepath και το βρ
 byte13: έκανα git log
 
 byte14: έκανα git log -p
+
+byte15: έκανα ./.exit_code και μετά echo 
