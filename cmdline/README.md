@@ -29,3 +29,5 @@ byte13: έκανα git log
 byte14: έκανα git log -p
 
 byte15: έκανα ./.exit_code και μετά echo 
+
+byte16: έκανα  ./noisy 2>/dev/null και έβγαλα τον θόρυβο 
