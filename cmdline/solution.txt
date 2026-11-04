@@ -3,7 +3,7 @@ byte1: brown_paper_packages_tied_up_with_strings
 byte2: grep_and_you_shall_find
 byte3: programmers
 byte4: the_triwizard_cup_is_yours_watch_out_for_the_horntail
-byte5:sdi2600222_1793459301_305364566_89_210_60_170_63565_22
+byte5: sdi2600222_1793459301_305364566_89_210_60_170_63565_22
 byte6: unzip_whenever_you_feel_a_little_compressed
 byte7: tar_jokes_wont_stick
 byte8: there_s_more_than_what_meets_the_eye
