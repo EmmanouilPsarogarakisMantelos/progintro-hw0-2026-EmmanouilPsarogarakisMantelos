@@ -1,6 +1,6 @@
 byte0:directories_are_fun_gotta_catch_em_all 
 byte1:brown_paper_packages_tied_up_with_strings
-byte2:  grep_and_you_shall_find
+byte2: grep_and_you_shall_find
 bytee3: programmers
 byte4: the_triwizard_cup_is_yours_watch_out_for_the_horntail
 byte5: sdi2600222_1793459301_305364566_89_210_60_170_63565_22
